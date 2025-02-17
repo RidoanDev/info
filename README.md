@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Md Ridoan Mahmud Zisan</h1>
-<h3 align="center">I developer Human</h3>
+<h3 align="center">I'm Human</h3>
 <img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youbtech01&label=Profile%20views&color=0e75b6&style=flat" alt="youbtech01" /> </p>
-
-- 🔭 I’m currently working on **Track Back**
-
-- 💬 Ask me about **Android And Wedsite Development**
+ 💬 Ask me about **Android And Wedsite Development**
 
 - 📫 How to reach me **ridoan.zisan@gmail.com**
 
-- ⚡ Fun fact **i'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/you_b_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="you b tech" height="30" width="40" /></a>
-<a href="https://fb.com/you_b_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="you b tech" height="30" width="40" /></a>
-<a href="https://instagram.com/you_b_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="you_b_tech" height="30" width="40" /></a>
-<a href="https://youtube.com/@You_B_Tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="you b tech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ridoan2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="you b tech" height="30" width="40" /></a>
+<a href="https://fb.com/ridoan2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="you b tech" height="30" width="40" /></a>
+<a href="https://instagram.com/ridoan2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="you_b_tech" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youbtech01&show_icons=true&locale=en&layout=compact" alt="youbtech01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youbtech01&show_icons=true&locale=en" alt="youbtech01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youbtech01&" alt="youbtech01" /></p>
